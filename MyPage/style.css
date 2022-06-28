@@ -1,0 +1,15 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 230px;
+}
+.userName{
+    width: 500px;
+    
+}
+h1 span:nth-child(2n+1){
+    color:yellowgreen;
+}
+h1 span:nth-child(2n){
+    color: purple;
+} 
